@@ -1,0 +1,1 @@
+[alkuperäinen suunnitelma_Oppimistehtävä 2.docx](/.attachments/alkuperäinen%20suunnitelma_Oppimistehtävä%202-f458bd1a-d3ee-42d4-91fb-40fcfd74906d.docx)
