@@ -1,0 +1,1 @@
+![Keskustelualue_suunnitelma_Autti.png](/.attachments/Keskustelualue_suunnitelma_Autti-295d45c1-7e04-4246-ab6c-9343ccd34025.png)
