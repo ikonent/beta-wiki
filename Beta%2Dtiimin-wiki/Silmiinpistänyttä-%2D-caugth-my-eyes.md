@@ -8,6 +8,7 @@ Register form does not check whether second passwd is entered as same.
 
 ![image.png](/.attachments/image-94e172a2-1893-4bf8-a5ec-b8dd74f10d38.png)
 Omat viestit -page is grayish. Contrast between the backgound and text is not big enough. <- this is fixed
+![image.png](/.attachments/image-0e1cc800-8129-4d84-8d13-3b9fbabac430.png)
 
 
 
