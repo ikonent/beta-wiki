@@ -7,4 +7,12 @@ When existing username is entered into the register form and the correct passwor
 Register form does not check whether second passwd is entered as same.
 
 ![image.png](/.attachments/image-94e172a2-1893-4bf8-a5ec-b8dd74f10d38.png)
-Omat viestit -page is grayish. Contrast between the backgound and text is not big enough.
+Omat viestit -page is grayish. Contrast between the backgound and text is not big enough. <- this is fixed
+
+
+
+![image.png](/.attachments/image-0dbf9f41-0974-4812-8893-2dbbeee06f7c.png)
+It says expand messages in the navbar button. When you click it (typical user assumes that it will expand messages) ->
+
+![image.png](/.attachments/image-eb840153-0c46-4544-bf06-c3471b59b98d.png)
+Now the navbar button says compress messages and in the message field it has a button expand.
