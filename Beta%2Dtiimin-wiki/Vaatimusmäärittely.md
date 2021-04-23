@@ -1,0 +1,1 @@
+[Vaatimusmaarittely_draft by EB.docx](/.attachments/Vaatimusmaarittely_draft%20by%20EB-3a286273-e54a-45a3-9c45-713164b4ca08.docx)
