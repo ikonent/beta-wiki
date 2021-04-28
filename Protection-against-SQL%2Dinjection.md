@@ -23,5 +23,6 @@ connection.query('SELECT * FROM health_records WHERE dob = ' + connection.escape
   // ...
 });
 
-Source:
+Sources:
 https://blog.sqreen.com/preventing-sql-injection-in-node-js-and-other-vulnerabilities/
+https://www.technicalkeeda.com/nodejs-tutorials/how-to-prevent-sql-injection-in-nodejs
