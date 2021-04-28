@@ -1,5 +1,6 @@
 # Two Methods
 ## Placeholders
+There are two main types of protection from which the first has two subtypes.
 ###Un-named placeholders
 This method has actually been used in the functions provided by the teacher
 
