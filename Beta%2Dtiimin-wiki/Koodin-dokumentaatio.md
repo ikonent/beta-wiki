@@ -3,17 +3,20 @@ Näiltä sivuilta löytyy listaus käytetyistä tiedostoista sekä tiedostojen m
 ##\_test_
 Jest-testit.
 ##bin
+Sisältää www-tiedoston. jossa on määritelty kutsu app-tiedostoon sekä käytettävät protokolla ja portti.
 ##languages
 Kielitiedostot, joiden avulla kansainvälisyys on toteutettu
 ##public
 Kuvat ja CSS-tiedostot
 ##routes
+Reittitiedostot, jotka käsittelevät tarkemmin käyttäjän kutsumia URL-osoitteita.
 ##views
 Sivujen toteuttamiseen liittyvät tiedostot
 #Tiedostot juuressa
 
 ## Sovelluksen toimintaan liittyvät tiedostot
 ###app.js
+Sovelluksen päätiedosto. Määrittää esimerkiksi reitit (routes), joihin käyttäjän kutsumat URL-osoitteet ohjataan.
 ###dbOperations.js
 Tietokanta
 ###package-lock.json
