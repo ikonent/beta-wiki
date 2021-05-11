@@ -1,1 +1,2 @@
-[Loppuraportti_ohtu_I_Beta.docx](/.attachments/Loppuraportti_ohtu_I_Beta-f6392685-767d-4260-a09f-e249e48115a4.docx)
+1.0 [Loppuraportti_ohtu_I_Beta.docx](/.attachments/Loppuraportti_ohtu_I_Beta-f6392685-767d-4260-a09f-e249e48115a4.docx)
+1.1 [Loppuraportti_ohtu_I_Beta.docx](/.attachments/Loppuraportti_ohtu_I_Beta-a1420643-2501-480d-a0a9-2da061f94d2b.docx)
